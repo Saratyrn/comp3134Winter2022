@@ -1,0 +1,36 @@
+What is the definition of server port?
+For networks, a port means an endpoint to a logical connection. The port number identifies what type of port it is. Here are the default email ports for:
+
+    POP3 - port 110
+
+    IMAP - port 143
+
+    SMTP - port 25
+
+    HTTP - port 80
+
+    Secure SMTP (SSMTP) - port 465
+
+    Secure IMAP (IMAP4-SSL) - port 585
+
+    IMAP4 over SSL (IMAPS) - port 993
+
+    Secure POP3 (SSL-POP) - port 995
+• What is server port range?
+Registered ports are in the range 1024 to 49151.
+• How many bits does number above represent?
+8 bites, Can represent positive numbers from 0 to 225
+• State 10 common server ports
+FTP 	20, 21
+SSH 	22
+Telnet 	23
+SMTP 	25
+DNS 	53
+DHCP 	67, 68
+TFTP 	69
+HTTP 	80
+POP3 	110
+NNTP 	119
+NTP 	123
+
+
